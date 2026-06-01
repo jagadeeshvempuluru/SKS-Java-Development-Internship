@@ -1,4 +1,4 @@
-# SKS Java Development Internship Tasks
+# Console Based Applications 
 
 ## Overview
 This repository contains the Java projects completed as part of the SKS Java Development Internship Program.
